@@ -15,12 +15,19 @@
   },
   "devDependencies": {
     "typescript": "^5",
+    "@eslint/compat": "^1.2.7",
+    "eslint-config-prettier": "^10.0.2",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
+    "eslint-plugin-prettier": "^5.2.3",
+    "eslint-plugin-unused-imports": "^4.1.4",
+    "prettier": "^3.5.2",
+    "prettier-plugin-tailwindcss": "^0.6.11",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@tailwindcss/postcss": "^4",
     "tailwindcss": "^4",
-    "eslint": "^9",
+    "eslint": "^9.21.0",
     "eslint-config-next": "15.2.4",
     "@eslint/eslintrc": "^3"
   }
